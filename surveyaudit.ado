@@ -57,9 +57,9 @@ program define surveyaudit
         05-8_Section_E2_Disability ///
         05-9_Section_E2R_Fertility ///
         05-10_Section_E3_Births&Deaths ///
-        05-11_Section_F_Anthropometry ///
-        05-11_Section_F_Anthropometry_BMI_5-19 ///
-        05-11_Section_F_Anthropometry_BMI_Adult ///
+        05-11-1_Section_F_Anthropometry ///
+        05-11-2_Section_F_Anthropometry_BMI_5-19 ///
+        05-11-3_Section_F_Anthropometry_BMI_Adult ///
         05-12_Section_G_ICT_hhm ///
         05-13_Section_H_DomesticTourism ///
         05-14_Section_I_CreditLoansFinInclusion ///
@@ -71,7 +71,7 @@ program define surveyaudit
         05-19_Section_L_EnergyUse_Tabulations ///
         05-20_Section_M_Agriculture ///
         05-21_Section_N_Livestock ///
-        05_SectionMN_AgricultureC_Tabulations ///
+        05-21-1_SectionMN_AgricultureC_Tabulations ///
         05-22_Section_O_Hh_Enterprise ///
         05-23_Section_P_Transfers ///
         05-24_Section_Q_SocialProtection ///
